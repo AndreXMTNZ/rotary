@@ -21,10 +21,11 @@ function loadCliente(id) {
             <h2>Club Rotario San Salvador<br>Maquilishuat</h2>
 
             <div class="info">
-              <p><strong>${data.nombre}</strong></p>
-              <p>Distrito ${data.distrito}</p>
-              <p>Club # ${data.club}</p>
-              <p>Socio # ${data.socio}</p>
+              <p><strong>Socio: ${data.nombre}</strong></p>
+              <p>Distrito: ${data.distrito}</p>
+              <p>Club: # ${data.club}</p>
+              <p>Correo ${data.correo}</p>
+              <p>Celular ${data.telefono}</p>
             </div>
           </div>
 
