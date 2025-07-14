@@ -1,0 +1,85 @@
+html, body {
+  margin: 0;                     /* Elimina márgenes por defecto del navegador */
+  padding: 0;                    /* Elimina relleno por defecto */
+  height: 100vh;                 /* Altura de la pantalla completa */
+  min-width: 325px;
+  background-color: #0f172a;     /* Color de fondo (azul oscuro) */
+  font-family: 'Segoe UI', sans-serif; /* Fuente principal */
+}
+
+body {
+  display: flex;
+  justify-content: center;      /* Centra horizontalmente el contenido */
+  align-items: center;          /* Centra verticalmente el contenido */
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  width: 100%;                /* Ocupa todo el ancho disponible */
+  min-width: 15%;            /* Evita que sea más estrecho de 325px */
+  max-width: 100%;            /* Límite en pantallas grandes */
+  height: 100vh;               /* Toda la altura del viewport */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+/* Header y footer */
+.card-header,
+.card-footer {
+  background-color: #25478d;    /* Color azul fuerte */
+  color: white;                 /* Texto blanco */
+  padding: 0.65rem 1rem;           /* Espaciado interno (vertical/horizontal) */
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+}
+
+.card-footer {
+  justify-content: center;
+  border-radius: 0 0 0.75rem 0.75rem; /* Redondeo solo abajo */
+}
+
+.card-footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* Cuerpo de la tarjeta */
+.card-body {
+  text-align: center;
+  padding: 1.25rem;
+}
+
+/* Logo pequeño arriba */
+.logo {
+  max-width: 15%;              /* Tamaño máximo del logo */
+  margin-bottom: 0.65rem;
+}
+
+/* Título principal */
+h1 {
+  color: #25478d;               /* Azul */
+  font-size: 1.5rem;
+  margin-bottom: 5px;
+}
+
+/* Subtítulo */
+h2 {
+  color: #f6a50a;               /* Gris azulado */
+  font-size: 1rem;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+/* Información del socio */
+.info p {
+  margin: 5px 0;
+  color: #000000;
+  font-size: 0.95rem;
+}

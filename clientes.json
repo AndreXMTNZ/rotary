@@ -1,0 +1,229 @@
+{
+  "clientes": {
+    "cliente1": {
+      "nombre": "Zonia Elizabeth Kalil Fuerte",
+      "distrito": "4240",
+      "club": "55258",
+      "socio": "9818499",
+      "cargo": "Presidenta",
+      "telefono": "7012-3456",
+      "correo": "zonia.fuerte@rotary.org"
+    },
+    "cliente2": {
+      "nombre": "Carlos Emilio Rivas",
+      "distrito": "4240",
+      "club": "55259",
+      "socio": "9818500",
+      "cargo": "Vicepresidente",
+      "telefono": "7890-1234",
+      "correo": "carlos.rivas@rotary.org"
+    },
+    "cliente3": {
+      "nombre": "María Fernanda López",
+      "distrito": "4240",
+      "club": "55260",
+      "socio": "9818501",
+      "cargo": "Secretaria",
+      "telefono": "7201-0012",
+      "correo": "maria.lopez@rotary.org"
+    },
+    "cliente4": {
+      "nombre": "José Andrés Martínez",
+      "distrito": "4240",
+      "club": "55261",
+      "socio": "9818502",
+      "cargo": "Tesorero",
+      "telefono": "7312-5678",
+      "correo": "jose.martinez@rotary.org"
+    },
+    "cliente5": {
+      "nombre": "Laura Patricia Méndez",
+      "distrito": "4240",
+      "club": "55262",
+      "socio": "9818503",
+      "cargo": "Relaciones Públicas",
+      "telefono": "7111-8899",
+      "correo": "laura.mendez@rotary.org"
+    },
+    "cliente6": {
+      "nombre": "Carlos Alejandro López",
+      "distrito": "4240",
+      "club": "55263",
+      "socio": "9818504",
+      "cargo": "Vocal",
+      "telefono": "7123-4567",
+      "correo": "carlos.lopez@rotary.org"
+    },
+    "cliente7": {
+      "nombre": "Karla Beatriz Gómez",
+      "distrito": "4240",
+      "club": "55264",
+      "socio": "9818505",
+      "cargo": "Asistente",
+      "telefono": "7133-2211",
+      "correo": "karla.gomez@rotary.org"
+    },
+    "cliente8": {
+      "nombre": "Daniel Enrique Ramos",
+      "distrito": "4240",
+      "club": "55265",
+      "socio": "9818506",
+      "cargo": "Miembro",
+      "telefono": "7144-5670",
+      "correo": "daniel.ramos@rotary.org"
+    },
+    "cliente9": {
+      "nombre": "Patricia Elena Ramírez",
+      "distrito": "4240",
+      "club": "55266",
+      "socio": "9818507",
+      "cargo": "Miembro",
+      "telefono": "7155-7800",
+      "correo": "patricia.ramirez@rotary.org"
+    },
+    "cliente10": {
+      "nombre": "Oscar Eduardo Villalta",
+      "distrito": "4240",
+      "club": "55267",
+      "socio": "9818508",
+      "cargo": "Miembro",
+      "telefono": "7166-1900",
+      "correo": "oscar.villalta@rotary.org"
+    },
+    "cliente11": {
+      "nombre": "Gloria Sofía Castillo",
+      "distrito": "4240",
+      "club": "55268",
+      "socio": "9818509",
+      "cargo": "Miembro",
+      "telefono": "7177-3030",
+      "correo": "gloria.castillo@rotary.org"
+    },
+    "cliente12": {
+      "nombre": "Fernando Ernesto Morales",
+      "distrito": "4240",
+      "club": "55269",
+      "socio": "9818510",
+      "cargo": "Miembro",
+      "telefono": "7188-4444",
+      "correo": "fernando.morales@rotary.org"
+    },
+    "cliente13": {
+      "nombre": "Gabriela Ivette Flores",
+      "distrito": "4240",
+      "club": "55270",
+      "socio": "9818511",
+      "cargo": "Miembro",
+      "telefono": "7199-5555",
+      "correo": "gabriela.flores@rotary.org"
+    },
+    "cliente14": {
+      "nombre": "Ricardo Antonio Ayala",
+      "distrito": "4240",
+      "club": "55271",
+      "socio": "9818512",
+      "cargo": "Miembro",
+      "telefono": "7200-6666",
+      "correo": "ricardo.ayala@rotary.org"
+    },
+    "cliente15": {
+      "nombre": "Mónica Alejandra Díaz",
+      "distrito": "4240",
+      "club": "55272",
+      "socio": "9818513",
+      "cargo": "Miembro",
+      "telefono": "7211-7777",
+      "correo": "monica.diaz@rotary.org"
+    },
+    "cliente16": {
+      "nombre": "Sergio Alberto Campos",
+      "distrito": "4240",
+      "club": "55273",
+      "socio": "9818514",
+      "cargo": "Miembro",
+      "telefono": "7222-8888",
+      "correo": "sergio.campos@rotary.org"
+    },
+    "cliente17": {
+      "nombre": "Carmen Cecilia Herrera",
+      "distrito": "4240",
+      "club": "55274",
+      "socio": "9818515",
+      "cargo": "Miembro",
+      "telefono": "7233-9999",
+      "correo": "carmen.herrera@rotary.org"
+    },
+    "cliente18": {
+      "nombre": "Mauricio Ernesto Aguilar",
+      "distrito": "4240",
+      "club": "55275",
+      "socio": "9818516",
+      "cargo": "Miembro",
+      "telefono": "7244-0000",
+      "correo": "mauricio.aguilar@rotary.org"
+    },
+    "cliente19": {
+      "nombre": "Verónica Michelle García",
+      "distrito": "4240",
+      "club": "55276",
+      "socio": "9818517",
+      "cargo": "Miembro",
+      "telefono": "7255-1111",
+      "correo": "veronica.garcia@rotary.org"
+    },
+    "cliente20": {
+      "nombre": "Roberto Alexander Chacón",
+      "distrito": "4240",
+      "club": "55277",
+      "socio": "9818518",
+      "cargo": "Miembro",
+      "telefono": "7266-2222",
+      "correo": "roberto.chacon@rotary.org"
+    },
+    "cliente21": {
+      "nombre": "Silvia Beatriz Henríquez",
+      "distrito": "4240",
+      "club": "55278",
+      "socio": "9818519",
+      "cargo": "Miembro",
+      "telefono": "7277-3333",
+      "correo": "silvia.henriquez@rotary.org"
+    },
+    "cliente22": {
+      "nombre": "Luis Felipe Torres",
+      "distrito": "4240",
+      "club": "55279",
+      "socio": "9818520",
+      "cargo": "Miembro",
+      "telefono": "7288-4444",
+      "correo": "luis.torres@rotary.org"
+    },
+    "cliente23": {
+      "nombre": "Ana Carolina Escobar",
+      "distrito": "4240",
+      "club": "55280",
+      "socio": "9818521",
+      "cargo": "Miembro",
+      "telefono": "7299-5555",
+      "correo": "ana.escobar@rotary.org"
+    },
+    "cliente24": {
+      "nombre": "David Ernesto Reyes",
+      "distrito": "4240",
+      "club": "55281",
+      "socio": "9818522",
+      "cargo": "Miembro",
+      "telefono": "7300-6666",
+      "correo": "david.reyes@rotary.org"
+    },
+    "cliente25": {
+      "nombre": "Claudia Liseth Rivera",
+      "distrito": "4240",
+      "club": "55282",
+      "socio": "9818523",
+      "cargo": "Miembro",
+      "telefono": "7311-7777",
+      "correo": "claudia.rivera@rotary.org"
+    }
+  }
+}
