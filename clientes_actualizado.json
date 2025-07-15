@@ -1,0 +1,212 @@
+{
+  "clientes": {
+    "cliente1": {
+      "nombre": "Alba de García",
+      "telefono": "77403961",
+      "correo": "alby_2garcia@hotmail.com",
+      "socio": "12356006",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente2": {
+      "nombre": "Alvaro Enrique Corpeño Cisneros",
+      "telefono": "78719276",
+      "correo": "alvaro_corpeno@yahoo.com",
+      "socio": "11568368",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente3": {
+      "nombre": "Ana Elizabeth Nova de Zavaleta",
+      "telefono": "77200562",
+      "correo": "eli.zavaleta@hotmail.com",
+      "socio": "8338605",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente4": {
+      "nombre": "Ana Margarita R. Castro de Díaz",
+      "telefono": "78947798",
+      "correo": "margarita56.dediaz@gmail.com",
+      "socio": "11568383",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente5": {
+      "nombre": "Ana Miriam Mejía de Valenzuela",
+      "telefono": "79210443",
+      "correo": "m.valenzuela@qnnascompany.com",
+      "socio": "12356025",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente6": {
+      "nombre": "Eugenia Guadalupe Nosthas Hernández",
+      "telefono": "79890541",
+      "correo": "enosthas31@gmail.com",
+      "socio": "8150922",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente7": {
+      "nombre": "Gabriela Miguel de Zabaneh",
+      "telefono": "78336207",
+      "correo": "gzabaneh26@gmail.com",
+      "socio": "5343201",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente8": {
+      "nombre": "Georgina Rivas",
+      "telefono": "79403587",
+      "correo": "ginarivasmilla@yahoo.com",
+      "socio": "9519933",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente9": {
+      "nombre": "Gloria Patricia Segovia Ticas",
+      "telefono": "78425518",
+      "correo": "patty.segovia@inovo.com.sv",
+      "socio": "10891299",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente10": {
+      "nombre": "Hans Merz",
+      "telefono": "73982484",
+      "correo": "hansmerz@yahoo.com",
+      "socio": "8818317",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente11": {
+      "nombre": "Jorge Francisco Jiménez Carmona",
+      "telefono": "78862067",
+      "correo": "jjimenezmx@gmail.com",
+      "socio": "9350802",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente12": {
+      "nombre": "José Aristides Perla Bautista",
+      "telefono": "78870653",
+      "correo": "japerla@yahoo.com",
+      "socio": "8020736",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente13": {
+      "nombre": "José Benjamín pérez",
+      "telefono": "78400200",
+      "correo": "jbpsal@hotmail.com",
+      "socio": "5343230",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente14": {
+      "nombre": "José Mario Perla",
+      "telefono": "78404828",
+      "correo": "josemarioperla@gmail.com",
+      "socio": "8617154",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente15": {
+      "nombre": "José Ricardo Hernández M.",
+      "telefono": "78026636",
+      "correo": "jrhernandezm@gmail.com",
+      "socio": "pendiente solucione My Rotary",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente16": {
+      "nombre": "María Mercedes González de Sagrera",
+      "telefono": "78869657",
+      "correo": "mmdesagrera@msn.com",
+      "socio": "12356033",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente17": {
+      "nombre": "Mario Calderón",
+      "telefono": "79309099",
+      "correo": "mariocalderon007@gmail.com",
+      "socio": "6473995",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente18": {
+      "nombre": "Monika Denisse Roeder Magaña",
+      "telefono": "77491441",
+      "correo": "monikadenisseroeder@yahoo.com",
+      "socio": "12177208",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente19": {
+      "nombre": "Pedro Enrique Sigui",
+      "telefono": "77871809",
+      "correo": "psigui@gruponsv.com",
+      "socio": "12160021",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente20": {
+      "nombre": "Reina Elizabeth Durán",
+      "telefono": "1(480)560-5981",
+      "correo": "beth.202308@gmail.com",
+      "socio": "10284010",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente21": {
+      "nombre": "Ricardo Monterrosa",
+      "telefono": "78406745",
+      "correo": "ricardomonterroza4@gmail.com",
+      "socio": "8960724",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente22": {
+      "nombre": "Rosa Liliana Martínez de Villatoro",
+      "telefono": "78714012",
+      "correo": "Liliana.Villatoro@grupov.net",
+      "socio": "9944601",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente23": {
+      "nombre": "Sofia Vairo de Pitta",
+      "telefono": "78870416",
+      "correo": "sofiapitta@yahoo.it",
+      "socio": "5343207",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente24": {
+      "nombre": "Telma Viale",
+      "telefono": "72329292",
+      "correo": "telmaviale11@gmail.com",
+      "socio": "11581346",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente25": {
+      "nombre": "Valentin Quan",
+      "telefono": "78564040",
+      "correo": "valentinquan@grupoferromax.com",
+      "socio": "5343221",
+      "distrito": "4240",
+      "club": "55258"
+    },
+    "cliente26": {
+      "nombre": "Zonia Elizabeth Kalil Fuerte",
+      "telefono": "79100164",
+      "correo": "zonia133@hotmail.com",
+      "socio": "9818499",
+      "distrito": "4240",
+      "club": "55258"
+    }
+  }
+}

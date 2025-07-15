@@ -27,6 +27,8 @@ function loadCliente(id) {
               <p>Correo ${data.correo}</p>
               <p>Celular ${data.telefono}</p>
             </div>
+
+            <a href="#" id="add-contact" class="btn-contacto">Agregar contacto</a>
           </div>
 
           <footer class="card-footer">
@@ -34,6 +36,33 @@ function loadCliente(id) {
           </footer>
         </div>
       `;
+
+      // Generar vCard y descargarla
+      const btn = document.getElementById('add-contact');
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+
+        const vcardData = `
+BEGIN:VCARD
+VERSION:3.0
+FN:${data.nombre}
+TEL;TYPE=CELL:${data.telefono}
+EMAIL:${data.correo}
+ORG:Rotary Club San Salvador Maquilishuat
+NOTE:Socio #${data.socio}
+END:VCARD
+        `.trim();
+
+        const blob = new Blob([vcardData], { type: "text/vcard" });
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `${data.nombre.replace(/\s+/g, "_")}.vcf`;
+        a.click();
+
+        URL.revokeObjectURL(url);
+      });
     });
 }
 
