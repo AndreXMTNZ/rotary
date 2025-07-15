@@ -19,7 +19,7 @@ body {
   width: 100%;                /* Ocupa todo el ancho disponible */
   min-width: 15%;            /* Evita que sea más estrecho de 325px */
   max-width: 100%;            /* Límite en pantallas grandes */
-  height: 100%;               /* Toda la altura del viewport */
+  height: 100vh;               /* Toda la altura del viewport */
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
