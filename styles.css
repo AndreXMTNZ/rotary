@@ -1,7 +1,7 @@
 html, body {
   margin: 0;                     /* Elimina márgenes por defecto del navegador */
   padding: 0;                    /* Elimina relleno por defecto */
-  height: 100vh;                 /* Altura de la pantalla completa */
+  height: 100%;                 /* Altura de la pantalla completa */
   min-width: 325px;
   background-color: #0f172a;     /* Color de fondo (azul oscuro) */
   font-family: 'Segoe UI', sans-serif; /* Fuente principal */
